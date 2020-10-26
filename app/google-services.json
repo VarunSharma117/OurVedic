@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423311179994",
+    "firebase_url": "https://ourvedic-80a8a.firebaseio.com",
+    "project_id": "ourvedic-80a8a",
+    "storage_bucket": "ourvedic-80a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423311179994:android:f45b3279d4bc3d8bf9a5e3",
+        "android_client_info": {
+          "package_name": "com.example.ourvedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423311179994-khg000knc1bouulc7lq5ufq00s80ttt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-FrUukixlOSoo-6QW2DmlJMSMfw-9IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423311179994-khg000knc1bouulc7lq5ufq00s80ttt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
