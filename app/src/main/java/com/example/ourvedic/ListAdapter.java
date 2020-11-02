@@ -37,7 +37,7 @@ public class ListAdapter extends ArrayAdapter<item> {
         ImageView imageResource = listItemView.findViewById(R.id.image);
         imageResource.setImageResource(currentitem.getItem_image());
 
-        TextView add = listItemView.findViewById(R.id.item_add);
+        TextView add = listItemView.findViewById(R.id.item_add); //will be use to add item in cart
 
 
 
